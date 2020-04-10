@@ -1,4 +1,4 @@
-# Checks-Country-GDP-and-suggest-Business-solutn
+# Checks-Country-GDP-and-suggest-Business-solution
 
 Goal: I want to start a business in any country .If its GDP is less than 10 trillion dollars.
 
